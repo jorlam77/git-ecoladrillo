@@ -1,0 +1,35 @@
+{
+  "title": "ecoladrillos",
+  "date": "9/03/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "ecoladrillos.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 1,
+  "mediaFiles": 11,
+  "totalSize": 347306,
+  "files": [
+    "basurao-resized.jpg",
+    "ecoladrillos.jclic",
+    "ecoladrillos.jclic.js",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "p2-resized.jpg",
+    "pagitas.jpg",
+    "papel-resized.jpg",
+    "plastico3.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "vidrio-resized.jpg"
+  ]
+}
